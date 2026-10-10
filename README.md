@@ -163,4 +163,4 @@ All team members contributed to the initial system design. This is a team course
 
 ## Report and attribution
 
-The original report is included without edits, including its unfinished title placeholder. It contains the experimental discussion, references, and AI assistance disclosure. This repository has no project-wide license file yet; no license for third-party data is inferred from its inclusion.
+The final report documents the project’s methods, experiments, and findings. It contains the experimental discussion, references, and AI assistance disclosure. This repository has no project-wide license file yet; no license for third-party data is inferred from its inclusion.
