@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Compute the sum S = 1^3 + 2^3 + 3^3 + \\cdots + 5^3.",
+    "answer": "225"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Compute the sum S = 1^3 + 2^3 + 3^3 + \\cdots + 6^3.",
+    "answer": "441"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Compute the sum S = 1^3 + 2^3 + 3^3 + \\cdots + 7^3.",
+    "answer": "784"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Compute the sum S = 1^3 + 2^3 + 3^3 + \\cdots + 8^3.",
+    "answer": "1296"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Compute the sum S = 1^3 + 2^3 + 3^3 + \\cdots + 9^3.",
+    "answer": "2025"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "How many subsets of size 3 can be chosen from a set with 8 elements?",
+    "answer": "56"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "How many subsets of size 4 can be chosen from a set with 9 elements?",
+    "answer": "126"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "How many subsets of size 5 can be chosen from a set with 10 elements?",
+    "answer": "252"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "How many subsets of size 3 can be chosen from a set with 11 elements?",
+    "answer": "165"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "How many subsets of size 4 can be chosen from a set with 12 elements?",
+    "answer": "495"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Compute the determinant of the 2x2 matrix [[2,3],[1,4]].",
+    "answer": "5"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Compute the determinant of the 2x2 matrix [[3,5],[2,7]].",
+    "answer": "11"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Compute the determinant of the 2x2 matrix [[4,1],[6,3]].",
+    "answer": "6"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Compute the determinant of the 2x2 matrix [[5,2],[3,9]].",
+    "answer": "39"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Compute the determinant of the 2x2 matrix [[7,4],[1,6]].",
+    "answer": "38"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Evaluate the integral \\int_0^2 (6x^2 -4x +2)\\,dx.",
+    "answer": "12"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Evaluate the integral \\int_0^2 (12x^2 -8x +4)\\,dx.",
+    "answer": "24"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Evaluate the integral \\int_0^2 (18x^2 -12x +6)\\,dx.",
+    "answer": "36"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Evaluate the integral \\int_0^2 (24x^2 -16x +8)\\,dx.",
+    "answer": "48"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Evaluate the integral \\int_0^2 (30x^2 -20x +10)\\,dx.",
+    "answer": "60"
+  },
+  {
+    "id": 21,
+    "difficulty": "medium",
+    "question": "Let n = 6. Compute the sum S = \\sum_{k=0}^n k \\binom{n}{k}.",
+    "answer": "192"
+  },
+  {
+    "id": 22,
+    "difficulty": "medium",
+    "question": "Let n = 7. Compute the sum S = \\sum_{k=0}^n k \\binom{n}{k}.",
+    "answer": "448"
+  },
+  {
+    "id": 23,
+    "difficulty": "medium",
+    "question": "Let n = 8. Compute the sum S = \\sum_{k=0}^n k \\binom{n}{k}.",
+    "answer": "1024"
+  },
+  {
+    "id": 24,
+    "difficulty": "medium",
+    "question": "Let n = 9. Compute the sum S = \\sum_{k=0}^n k \\binom{n}{k}.",
+    "answer": "2304"
+  },
+  {
+    "id": 25,
+    "difficulty": "medium",
+    "question": "Let n = 10. Compute the sum S = \\sum_{k=0}^n k \\binom{n}{k}.",
+    "answer": "5120"
+  },
+  {
+    "id": 26,
+    "difficulty": "medium",
+    "question": "Let n = 5. Compute the sum S = \\sum_{k=0}^n k^2 \\binom{n}{k}.",
+    "answer": "240"
+  },
+  {
+    "id": 27,
+    "difficulty": "medium",
+    "question": "Let n = 6. Compute the sum S = \\sum_{k=0}^n k^2 \\binom{n}{k}.",
+    "answer": "672"
+  },
+  {
+    "id": 28,
+    "difficulty": "medium",
+    "question": "Let n = 7. Compute the sum S = \\sum_{k=0}^n k^2 \\binom{n}{k}.",
+    "answer": "1792"
+  },
+  {
+    "id": 29,
+    "difficulty": "medium",
+    "question": "Let n = 8. Compute the sum S = \\sum_{k=0}^n k^2 \\binom{n}{k}.",
+    "answer": "4608"
+  },
+  {
+    "id": 30,
+    "difficulty": "medium",
+    "question": "Let n = 9. Compute the sum S = \\sum_{k=0}^n k^2 \\binom{n}{k}.",
+    "answer": "11520"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Compute the determinant of the 3x3 matrix [[1, 2, 3], [0, 1, 4], [5, 6, 0]].",
+    "answer": "1"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Compute the determinant of the 3x3 matrix [[2, 1, 0], [3, 4, 1], [1, 0, 2]].",
+    "answer": "11"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Compute the determinant of the 3x3 matrix [[3, 0, 1], [1, 2, 3], [4, 1, 0]].",
+    "answer": "-16"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Compute the determinant of the 3x3 matrix [[2, 3, 1], [1, 0, 2], [0, 4, 5]].",
+    "answer": "-27"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Compute the determinant of the 3x3 matrix [[4, 1, 2], [0, 3, 1], [5, 0, 2]].",
+    "answer": "-1"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Compute the determinant of the 3x3 matrix [[1, 3, 2], [2, 1, 0], [0, 4, 5]].",
+    "answer": "-9"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Compute the determinant of the 3x3 matrix [[2, 0, 1], [1, 3, 2], [4, 1, 0]].",
+    "answer": "-15"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Compute the determinant of the 3x3 matrix [[3, 1, 0], [2, 4, 1], [1, 0, 2]].",
+    "answer": "21"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Compute the determinant of the 3x3 matrix [[2, 2, 1], [1, 3, 1], [0, 1, 4]].",
+    "answer": "15"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Compute the determinant of the 3x3 matrix [[4, 1, 1], [2, 3, 0], [1, 0, 3]].",
+    "answer": "27"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "A group has 4 men and 6 women. How many ways are there to choose a committee of 4 people that contains at least 2 women?",
+    "answer": "185"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "A group has 5 men and 5 women. How many ways are there to choose a committee of 4 people that contains at least 2 women?",
+    "answer": "155"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "A group has 6 men and 4 women. How many ways are there to choose a committee of 4 people that contains at least 2 women?",
+    "answer": "115"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "A group has 6 men and 5 women. How many ways are there to choose a committee of 5 people that contains at least 2 women?",
+    "answer": "381"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "A group has 7 men and 5 women. How many ways are there to choose a committee of 5 people that contains at least 3 women?",
+    "answer": "246"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "A group has 7 men and 6 women. How many ways are there to choose a committee of 5 people that contains at least 2 women?",
+    "answer": "1056"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "A group has 8 men and 4 women. How many ways are there to choose a committee of 5 people that contains at least 2 women?",
+    "answer": "456"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "A group has 5 men and 7 women. How many ways are there to choose a committee of 4 people that contains at least 2 women?",
+    "answer": "420"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "A group has 6 men and 6 women. How many ways are there to choose a committee of 5 people that contains at least 3 women?",
+    "answer": "396"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "A group has 8 men and 5 women. How many ways are there to choose a committee of 5 people that contains at least 2 women?",
+    "answer": "881"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "How many edges does the 4-dimensional hypercube Q_4 have?",
+    "answer": "32"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "How many edges does the 5-dimensional hypercube Q_5 have?",
+    "answer": "80"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "How many edges does the 6-dimensional hypercube Q_6 have?",
+    "answer": "192"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "How many edges does the 7-dimensional hypercube Q_7 have?",
+    "answer": "448"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "How many edges does the 8-dimensional hypercube Q_8 have?",
+    "answer": "1024"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "What is the Catalan number C_4?",
+    "answer": "14"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What is the Catalan number C_5?",
+    "answer": "42"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "What is the Catalan number C_6?",
+    "answer": "132"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What is the Catalan number C_7?",
+    "answer": "429"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "What is the Catalan number C_8?",
+    "answer": "1430"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "How many surjections are there from an 5-element set onto a 3-element set?",
+    "answer": "150"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "How many surjections are there from an 6-element set onto a 3-element set?",
+    "answer": "540"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "How many surjections are there from an 6-element set onto a 4-element set?",
+    "answer": "1560"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "How many surjections are there from an 7-element set onto a 3-element set?",
+    "answer": "1806"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "How many surjections are there from an 7-element set onto a 4-element set?",
+    "answer": "8400"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "How many surjections are there from an 7-element set onto a 5-element set?",
+    "answer": "16800"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "How many surjections are there from an 8-element set onto a 3-element set?",
+    "answer": "5796"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "How many surjections are there from an 8-element set onto a 4-element set?",
+    "answer": "40824"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "How many surjections are there from an 8-element set onto a 5-element set?",
+    "answer": "126000"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "How many surjections are there from an 9-element set onto a 4-element set?",
+    "answer": "186480"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "How many derangements (permutations with no fixed points) of 5 elements are there?",
+    "answer": "44"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "How many derangements (permutations with no fixed points) of 6 elements are there?",
+    "answer": "265"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "How many derangements (permutations with no fixed points) of 7 elements are there?",
+    "answer": "1854"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "How many derangements (permutations with no fixed points) of 8 elements are there?",
+    "answer": "14833"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "How many derangements (permutations with no fixed points) of 9 elements are there?",
+    "answer": "133496"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "How many derangements (permutations with no fixed points) of 10 elements are there?",
+    "answer": "1334961"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "How many derangements (permutations with no fixed points) of 11 elements are there?",
+    "answer": "14684570"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "How many derangements (permutations with no fixed points) of 12 elements are there?",
+    "answer": "176214841"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "How many derangements (permutations with no fixed points) of 13 elements are there?",
+    "answer": "2290792932"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "How many derangements (permutations with no fixed points) of 14 elements are there?",
+    "answer": "32071101049"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "In the symmetric group S_6, how many permutations have exactly 1 fixed point(s)? (A fixed point is an element i with \u03c3(i)=i.)",
+    "answer": "264"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "In the symmetric group S_6, how many permutations have exactly 2 fixed point(s)? (A fixed point is an element i with \u03c3(i)=i.)",
+    "answer": "135"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "In the symmetric group S_7, how many permutations have exactly 1 fixed point(s)? (A fixed point is an element i with \u03c3(i)=i.)",
+    "answer": "1855"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "In the symmetric group S_7, how many permutations have exactly 2 fixed point(s)? (A fixed point is an element i with \u03c3(i)=i.)",
+    "answer": "924"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "In the symmetric group S_8, how many permutations have exactly 1 fixed point(s)? (A fixed point is an element i with \u03c3(i)=i.)",
+    "answer": "14832"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "In the symmetric group S_8, how many permutations have exactly 2 fixed point(s)? (A fixed point is an element i with \u03c3(i)=i.)",
+    "answer": "7420"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "In the symmetric group S_9, how many permutations have exactly 1 fixed point(s)? (A fixed point is an element i with \u03c3(i)=i.)",
+    "answer": "133497"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "In the symmetric group S_9, how many permutations have exactly 2 fixed point(s)? (A fixed point is an element i with \u03c3(i)=i.)",
+    "answer": "66744"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "In the symmetric group S_10, how many permutations have exactly 1 fixed point(s)? (A fixed point is an element i with \u03c3(i)=i.)",
+    "answer": "1334960"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "In the symmetric group S_10, how many permutations have exactly 2 fixed point(s)? (A fixed point is an element i with \u03c3(i)=i.)",
+    "answer": "667485"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Compute Euler's totient function \u03c6(720).",
+    "answer": "192"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Compute Euler's totient function \u03c6(840).",
+    "answer": "192"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Compute Euler's totient function \u03c6(900).",
+    "answer": "240"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Compute Euler's totient function \u03c6(960).",
+    "answer": "256"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Compute Euler's totient function \u03c6(1000).",
+    "answer": "400"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Compute Euler's totient function \u03c6(1024).",
+    "answer": "512"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Compute Euler's totient function \u03c6(1080).",
+    "answer": "288"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Compute Euler's totient function \u03c6(1200).",
+    "answer": "320"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Compute Euler's totient function \u03c6(1440).",
+    "answer": "384"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Compute Euler's totient function \u03c6(1680).",
+    "answer": "384"
+  },
+  {
+    "id": 101,
+    "difficulty": "hard",
+    "question": "How many spanning trees does the complete graph K_5 on 5 labeled vertices have?",
+    "answer": "125"
+  },
+  {
+    "id": 102,
+    "difficulty": "hard",
+    "question": "How many spanning trees does the complete graph K_6 on 6 labeled vertices have?",
+    "answer": "1296"
+  },
+  {
+    "id": 103,
+    "difficulty": "hard",
+    "question": "How many spanning trees does the complete graph K_7 on 7 labeled vertices have?",
+    "answer": "16807"
+  },
+  {
+    "id": 104,
+    "difficulty": "hard",
+    "question": "How many spanning trees does the complete graph K_8 on 8 labeled vertices have?",
+    "answer": "262144"
+  },
+  {
+    "id": 105,
+    "difficulty": "hard",
+    "question": "How many spanning trees does the complete graph K_9 on 9 labeled vertices have?",
+    "answer": "4782969"
+  },
+  {
+    "id": 106,
+    "difficulty": "hard",
+    "question": "How many spanning trees does the complete bipartite graph K_{3,4} with parts of sizes 3 and 4 have?",
+    "answer": "432"
+  },
+  {
+    "id": 107,
+    "difficulty": "hard",
+    "question": "How many spanning trees does the complete bipartite graph K_{3,5} with parts of sizes 3 and 5 have?",
+    "answer": "2025"
+  },
+  {
+    "id": 108,
+    "difficulty": "hard",
+    "question": "How many spanning trees does the complete bipartite graph K_{4,5} with parts of sizes 4 and 5 have?",
+    "answer": "32000"
+  },
+  {
+    "id": 109,
+    "difficulty": "hard",
+    "question": "How many spanning trees does the complete bipartite graph K_{4,6} with parts of sizes 4 and 6 have?",
+    "answer": "221184"
+  },
+  {
+    "id": 110,
+    "difficulty": "hard",
+    "question": "How many spanning trees does the complete bipartite graph K_{5,6} with parts of sizes 5 and 6 have?",
+    "answer": "4050000"
+  },
+  {
+    "id": 111,
+    "difficulty": "hard",
+    "question": "How many nonnegative integer solutions (x_1,\\dots,x_3) are there to the equation x_1 + x_2 + \\cdots + x_3 = 5?",
+    "answer": "21"
+  },
+  {
+    "id": 112,
+    "difficulty": "hard",
+    "question": "How many nonnegative integer solutions (x_1,\\dots,x_4) are there to the equation x_1 + x_2 + \\cdots + x_4 = 7?",
+    "answer": "120"
+  },
+  {
+    "id": 113,
+    "difficulty": "hard",
+    "question": "How many integer solutions (x_1,\\dots,x_3) are there to the equation x_1 + x_2 + \\cdots + x_3 = 10 with each x_i \\ge 1?",
+    "answer": "36"
+  },
+  {
+    "id": 114,
+    "difficulty": "hard",
+    "question": "How many integer solutions (x_1,\\dots,x_4) are there to the equation x_1 + x_2 + \\cdots + x_4 = 12 with each x_i \\ge 1?",
+    "answer": "165"
+  },
+  {
+    "id": 115,
+    "difficulty": "hard",
+    "question": "How many nonnegative integer solutions (x_1,\\dots,x_5) are there to the equation x_1 + x_2 + \\cdots + x_5 = 15?",
+    "answer": "3876"
+  },
+  {
+    "id": 116,
+    "difficulty": "hard",
+    "question": "How many integer solutions (x_1,\\dots,x_4) are there to the equation x_1 + x_2 + \\cdots + x_4 = 20 with each x_i \\ge 2?",
+    "answer": "455"
+  },
+  {
+    "id": 117,
+    "difficulty": "hard",
+    "question": "How many integer solutions (x_1,\\dots,x_5) are there to the equation x_1 + x_2 + \\cdots + x_5 = 18 with each x_i \\ge 1?",
+    "answer": "2380"
+  },
+  {
+    "id": 118,
+    "difficulty": "hard",
+    "question": "How many nonnegative integer solutions (x_1,\\dots,x_4) are there to the equation x_1 + x_2 + \\cdots + x_4 = 16?",
+    "answer": "969"
+  },
+  {
+    "id": 119,
+    "difficulty": "hard",
+    "question": "How many integer solutions (x_1,\\dots,x_6) are there to the equation x_1 + x_2 + \\cdots + x_6 = 14 with each x_i \\ge 1?",
+    "answer": "1287"
+  },
+  {
+    "id": 120,
+    "difficulty": "hard",
+    "question": "How many integer solutions (x_1,\\dots,x_3) are there to the equation x_1 + x_2 + \\cdots + x_3 = 11 with each x_i \\ge 2?",
+    "answer": "21"
+  },
+  {
+    "id": 121,
+    "difficulty": "frontier",
+    "question": "Let S_4 be the symmetric group on 4 elements. How many permutations in S_4 have all cycle lengths odd?",
+    "answer": "9"
+  },
+  {
+    "id": 122,
+    "difficulty": "frontier",
+    "question": "Let S_5 be the symmetric group on 5 elements. How many permutations in S_5 have all cycle lengths odd?",
+    "answer": "45"
+  },
+  {
+    "id": 123,
+    "difficulty": "frontier",
+    "question": "Let S_6 be the symmetric group on 6 elements. How many permutations in S_6 have all cycle lengths odd?",
+    "answer": "225"
+  },
+  {
+    "id": 124,
+    "difficulty": "frontier",
+    "question": "Let S_7 be the symmetric group on 7 elements. How many permutations in S_7 have all cycle lengths odd?",
+    "answer": "1575"
+  },
+  {
+    "id": 125,
+    "difficulty": "frontier",
+    "question": "Let S_8 be the symmetric group on 8 elements. How many permutations in S_8 have all cycle lengths odd?",
+    "answer": "11025"
+  },
+  {
+    "id": 126,
+    "difficulty": "frontier",
+    "question": "Let S_9 be the symmetric group on 9 elements. How many permutations in S_9 have all cycle lengths odd?",
+    "answer": "99225"
+  },
+  {
+    "id": 127,
+    "difficulty": "frontier",
+    "question": "Let S_10 be the symmetric group on 10 elements. How many permutations in S_10 have all cycle lengths odd?",
+    "answer": "893025"
+  },
+  {
+    "id": 128,
+    "difficulty": "frontier",
+    "question": "Let S_4 be the symmetric group on 4 elements. How many permutations in S_4 have no cycles of length 1 or 2 (i.e., every cycle has length at least 3)?",
+    "answer": "6"
+  },
+  {
+    "id": 129,
+    "difficulty": "frontier",
+    "question": "Let S_5 be the symmetric group on 5 elements. How many permutations in S_5 have no cycles of length 1 or 2 (i.e., every cycle has length at least 3)?",
+    "answer": "24"
+  },
+  {
+    "id": 130,
+    "difficulty": "frontier",
+    "question": "Let S_6 be the symmetric group on 6 elements. How many permutations in S_6 have no cycles of length 1 or 2 (i.e., every cycle has length at least 3)?",
+    "answer": "160"
+  },
+  {
+    "id": 131,
+    "difficulty": "frontier",
+    "question": "Let S_7 be the symmetric group on 7 elements. How many permutations in S_7 have no cycles of length 1 or 2 (i.e., every cycle has length at least 3)?",
+    "answer": "1140"
+  },
+  {
+    "id": 132,
+    "difficulty": "frontier",
+    "question": "Let S_8 be the symmetric group on 8 elements. How many permutations in S_8 have no cycles of length 1 or 2 (i.e., every cycle has length at least 3)?",
+    "answer": "8988"
+  },
+  {
+    "id": 133,
+    "difficulty": "frontier",
+    "question": "Let S_9 be the symmetric group on 9 elements. How many permutations in S_9 have no cycles of length 1 or 2 (i.e., every cycle has length at least 3)?",
+    "answer": "80864"
+  },
+  {
+    "id": 134,
+    "difficulty": "frontier",
+    "question": "Let S_10 be the symmetric group on 10 elements. How many permutations in S_10 have no cycles of length 1 or 2 (i.e., every cycle has length at least 3)?",
+    "answer": "809856"
+  },
+  {
+    "id": 135,
+    "difficulty": "frontier",
+    "question": "Consider the symmetric group S_9. How many permutations have cycle decomposition consisting of 3 3-cycles?",
+    "answer": "2240"
+  },
+  {
+    "id": 136,
+    "difficulty": "frontier",
+    "question": "Consider the symmetric group S_9. How many permutations have cycle decomposition consisting of one 2-cycle, one 3-cycle, one 4-cycle?",
+    "answer": "15120"
+  },
+  {
+    "id": 137,
+    "difficulty": "frontier",
+    "question": "Consider the symmetric group S_9. How many permutations have cycle decomposition consisting of one 4-cycle, one 5-cycle?",
+    "answer": "18144"
+  },
+  {
+    "id": 138,
+    "difficulty": "frontier",
+    "question": "Consider the symmetric group S_10. How many permutations have cycle decomposition consisting of one 2-cycle, one 3-cycle, one 5-cycle?",
+    "answer": "120960"
+  },
+  {
+    "id": 139,
+    "difficulty": "frontier",
+    "question": "Consider the symmetric group S_10. How many permutations have cycle decomposition consisting of one 2-cycle, 2 4-cycles?",
+    "answer": "56700"
+  },
+  {
+    "id": 140,
+    "difficulty": "frontier",
+    "question": "Consider the symmetric group S_10. How many permutations have cycle decomposition consisting of one 4-cycle, one 6-cycle?",
+    "answer": "151200"
+  },
+  {
+    "id": 141,
+    "difficulty": "frontier",
+    "question": "Consider the symmetric group S_10. How many permutations have cycle decomposition consisting of 2 2-cycles, 2 3-cycles?",
+    "answer": "25200"
+  },
+  {
+    "id": 142,
+    "difficulty": "frontier",
+    "question": "Consider the symmetric group S_10. How many permutations have cycle decomposition consisting of one 3-cycle, one 7-cycle?",
+    "answer": "172800"
+  },
+  {
+    "id": 143,
+    "difficulty": "frontier",
+    "question": "Consider the symmetric group S_10. How many permutations have cycle decomposition consisting of 2 5-cycles?",
+    "answer": "72576"
+  },
+  {
+    "id": 144,
+    "difficulty": "frontier",
+    "question": "Consider the symmetric group S_10. How many permutations have cycle decomposition consisting of 2 3-cycles, one 4-cycle?",
+    "answer": "50400"
+  },
+  {
+    "id": 145,
+    "difficulty": "frontier",
+    "question": "Let K_5 be the complete graph on 5 labeled vertices. How many spanning trees of K_5 contain a fixed edge {1,2}?",
+    "answer": "50"
+  },
+  {
+    "id": 146,
+    "difficulty": "frontier",
+    "question": "Let K_6 be the complete graph on 6 labeled vertices. How many spanning trees of K_6 contain a fixed edge {1,2}?",
+    "answer": "432"
+  },
+  {
+    "id": 147,
+    "difficulty": "frontier",
+    "question": "Let K_7 be the complete graph on 7 labeled vertices. How many spanning trees of K_7 contain a fixed edge {1,2}?",
+    "answer": "4802"
+  },
+  {
+    "id": 148,
+    "difficulty": "frontier",
+    "question": "Let K_8 be the complete graph on 8 labeled vertices. How many spanning trees of K_8 contain a fixed edge {1,2}?",
+    "answer": "65536"
+  },
+  {
+    "id": 149,
+    "difficulty": "frontier",
+    "question": "Let K_9 be the complete graph on 9 labeled vertices. How many spanning trees of K_9 contain a fixed edge {1,2}?",
+    "answer": "1062882"
+  },
+  {
+    "id": 150,
+    "difficulty": "frontier",
+    "question": "Let K_10 be the complete graph on 10 labeled vertices. How many spanning trees of K_10 contain a fixed edge {1,2}?",
+    "answer": "20000000"
+  },
+  {
+    "id": 151,
+    "difficulty": "frontier",
+    "question": "Let K_11 be the complete graph on 11 labeled vertices. How many spanning trees of K_11 contain a fixed edge {1,2}?",
+    "answer": "428717762"
+  },
+  {
+    "id": 152,
+    "difficulty": "frontier",
+    "question": "Let K_12 be the complete graph on 12 labeled vertices. How many spanning trees of K_12 contain a fixed edge {1,2}?",
+    "answer": "10319560704"
+  },
+  {
+    "id": 153,
+    "difficulty": "frontier",
+    "question": "Over the finite field F_2, how many 1-dimensional subspaces does the vector space F_2^4 have?",
+    "answer": "15"
+  },
+  {
+    "id": 154,
+    "difficulty": "frontier",
+    "question": "Over the finite field F_2, how many 2-dimensional subspaces does the vector space F_2^4 have?",
+    "answer": "35"
+  },
+  {
+    "id": 155,
+    "difficulty": "frontier",
+    "question": "Over the finite field F_2, how many 1-dimensional subspaces does the vector space F_2^5 have?",
+    "answer": "31"
+  },
+  {
+    "id": 156,
+    "difficulty": "frontier",
+    "question": "Over the finite field F_2, how many 2-dimensional subspaces does the vector space F_2^5 have?",
+    "answer": "155"
+  },
+  {
+    "id": 157,
+    "difficulty": "frontier",
+    "question": "Over the finite field F_2, how many 3-dimensional subspaces does the vector space F_2^5 have?",
+    "answer": "155"
+  },
+  {
+    "id": 158,
+    "difficulty": "frontier",
+    "question": "Over the finite field F_2, how many 2-dimensional subspaces does the vector space F_2^6 have?",
+    "answer": "651"
+  },
+  {
+    "id": 159,
+    "difficulty": "frontier",
+    "question": "Over the finite field F_2, how many 3-dimensional subspaces does the vector space F_2^6 have?",
+    "answer": "1395"
+  },
+  {
+    "id": 160,
+    "difficulty": "frontier",
+    "question": "Over the finite field F_3, how many 1-dimensional subspaces does the vector space F_3^4 have?",
+    "answer": "40"
+  },
+  {
+    "id": 161,
+    "difficulty": "frontier",
+    "question": "Over the finite field F_3, how many 2-dimensional subspaces does the vector space F_3^4 have?",
+    "answer": "130"
+  },
+  {
+    "id": 162,
+    "difficulty": "frontier",
+    "question": "Over the finite field F_3, how many 2-dimensional subspaces does the vector space F_3^5 have?",
+    "answer": "1210"
+  },
+  {
+    "id": 163,
+    "difficulty": "frontier",
+    "question": "How many invertible 2\\times2 matrices over the finite field F_2 are there?",
+    "answer": "6"
+  },
+  {
+    "id": 164,
+    "difficulty": "frontier",
+    "question": "How many invertible 3\\times3 matrices over the finite field F_2 are there?",
+    "answer": "168"
+  },
+  {
+    "id": 165,
+    "difficulty": "frontier",
+    "question": "How many invertible 4\\times4 matrices over the finite field F_2 are there?",
+    "answer": "20160"
+  },
+  {
+    "id": 166,
+    "difficulty": "frontier",
+    "question": "How many invertible 2\\times2 matrices over the finite field F_3 are there?",
+    "answer": "48"
+  },
+  {
+    "id": 167,
+    "difficulty": "frontier",
+    "question": "How many invertible 3\\times3 matrices over the finite field F_3 are there?",
+    "answer": "11232"
+  },
+  {
+    "id": 168,
+    "difficulty": "frontier",
+    "question": "How many invertible 4\\times4 matrices over the finite field F_3 are there?",
+    "answer": "24261120"
+  },
+  {
+    "id": 169,
+    "difficulty": "frontier",
+    "question": "How many invertible 2\\times2 matrices over the finite field F_5 are there?",
+    "answer": "480"
+  },
+  {
+    "id": 170,
+    "difficulty": "frontier",
+    "question": "How many invertible 3\\times3 matrices over the finite field F_5 are there?",
+    "answer": "1488000"
+  },
+  {
+    "id": 171,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 500 satisfy \u03a9(n) = 2?",
+    "answer": "153"
+  },
+  {
+    "id": 172,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 500 satisfy \u03a9(n) = 3?",
+    "answer": "122"
+  },
+  {
+    "id": 173,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 1000 satisfy \u03a9(n) = 3?",
+    "answer": "247"
+  },
+  {
+    "id": 174,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 1000 satisfy \u03a9(n) = 4?",
+    "answer": "149"
+  },
+  {
+    "id": 175,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 1500 satisfy \u03a9(n) = 2?",
+    "answer": "436"
+  },
+  {
+    "id": 176,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 1500 satisfy \u03a9(n) = 4?",
+    "answer": "231"
+  },
+  {
+    "id": 177,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 500 satisfy \u03a9(n) = 2 and \u03a9(n+1) = 2?",
+    "answer": "42"
+  },
+  {
+    "id": 178,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 500 satisfy \u03a9(n) = 2 and \u03a9(n+1) = 3?",
+    "answer": "48"
+  },
+  {
+    "id": 179,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 500 satisfy \u03a9(n) = 3 and \u03a9(n+1) = 2?",
+    "answer": "44"
+  },
+  {
+    "id": 180,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 500 satisfy \u03a9(n) = 3 and \u03a9(n+1) = 3?",
+    "answer": "27"
+  },
+  {
+    "id": 181,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 1000 satisfy \u03a9(n) = 2 and \u03a9(n+1) = 2?",
+    "answer": "74"
+  },
+  {
+    "id": 182,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 1000 satisfy \u03a9(n) = 2 and \u03a9(n+1) = 3?",
+    "answer": "89"
+  },
+  {
+    "id": 183,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 1000 satisfy \u03a9(n) = 3 and \u03a9(n+1) = 2?",
+    "answer": "86"
+  },
+  {
+    "id": 184,
+    "difficulty": "frontier",
+    "question": "Let \u03a9(n) denote the total number of prime factors of n counted with multiplicity. How many integers n with 1 \\le n \\le 1000 satisfy \u03a9(n) = 3 and \u03a9(n+1) = 3?",
+    "answer": "63"
+  },
+  {
+    "id": 185,
+    "difficulty": "frontier",
+    "question": "Evaluate the sum S = \\sum_{k=0}^10 (-1)^k k^2 \\binom{n}{k} for n = 10. Give your answer as an integer.",
+    "answer": "0"
+  },
+  {
+    "id": 186,
+    "difficulty": "frontier",
+    "question": "Evaluate the sum S = \\sum_{k=0}^11 (-1)^k k^2 \\binom{n}{k} for n = 11. Give your answer as an integer.",
+    "answer": "0"
+  },
+  {
+    "id": 187,
+    "difficulty": "frontier",
+    "question": "Evaluate the sum S = \\sum_{k=0}^12 (-1)^k k^2 \\binom{n}{k} for n = 12. Give your answer as an integer.",
+    "answer": "0"
+  },
+  {
+    "id": 188,
+    "difficulty": "frontier",
+    "question": "Evaluate the sum S = \\sum_{k=0}^13 (-1)^k k^2 \\binom{n}{k} for n = 13. Give your answer as an integer.",
+    "answer": "0"
+  },
+  {
+    "id": 189,
+    "difficulty": "frontier",
+    "question": "Evaluate the sum S = \\sum_{k=0}^14 (-1)^k k^2 \\binom{n}{k} for n = 14. Give your answer as an integer.",
+    "answer": "0"
+  },
+  {
+    "id": 190,
+    "difficulty": "frontier",
+    "question": "Evaluate the sum T = \\sum_{k=0}^4 (-1)^k \\binom{n}{k}^2 for n = 4. Give your answer as an integer.",
+    "answer": "6"
+  },
+  {
+    "id": 191,
+    "difficulty": "frontier",
+    "question": "Evaluate the sum T = \\sum_{k=0}^6 (-1)^k \\binom{n}{k}^2 for n = 6. Give your answer as an integer.",
+    "answer": "-20"
+  },
+  {
+    "id": 192,
+    "difficulty": "frontier",
+    "question": "Evaluate the sum T = \\sum_{k=0}^8 (-1)^k \\binom{n}{k}^2 for n = 8. Give your answer as an integer.",
+    "answer": "70"
+  },
+  {
+    "id": 193,
+    "difficulty": "frontier",
+    "question": "Evaluate the sum T = \\sum_{k=0}^10 (-1)^k \\binom{n}{k}^2 for n = 10. Give your answer as an integer.",
+    "answer": "-252"
+  },
+  {
+    "id": 194,
+    "difficulty": "frontier",
+    "question": "Evaluate the sum T = \\sum_{k=0}^12 (-1)^k \\binom{n}{k}^2 for n = 12. Give your answer as an integer.",
+    "answer": "924"
+  },
+  {
+    "id": 195,
+    "difficulty": "frontier",
+    "question": "Consider colorings of the vertices of a regular 4-gon using 3 colors. Two colorings are considered the same if one can be obtained from the other by a rotation or reflection of the polygon. How many distinct colorings are there?",
+    "answer": "21"
+  },
+  {
+    "id": 196,
+    "difficulty": "frontier",
+    "question": "Consider colorings of the vertices of a regular 4-gon using 4 colors. Two colorings are considered the same if one can be obtained from the other by a rotation or reflection of the polygon. How many distinct colorings are there?",
+    "answer": "55"
+  },
+  {
+    "id": 197,
+    "difficulty": "frontier",
+    "question": "Consider colorings of the vertices of a regular 5-gon using 3 colors. Two colorings are considered the same if one can be obtained from the other by a rotation or reflection of the polygon. How many distinct colorings are there?",
+    "answer": "39"
+  },
+  {
+    "id": 198,
+    "difficulty": "frontier",
+    "question": "Consider colorings of the vertices of a regular 6-gon using 2 colors. Two colorings are considered the same if one can be obtained from the other by a rotation or reflection of the polygon. How many distinct colorings are there?",
+    "answer": "13"
+  },
+  {
+    "id": 199,
+    "difficulty": "frontier",
+    "question": "Consider colorings of the vertices of a regular 6-gon using 3 colors. Two colorings are considered the same if one can be obtained from the other by a rotation or reflection of the polygon. How many distinct colorings are there?",
+    "answer": "92"
+  },
+  {
+    "id": 200,
+    "difficulty": "frontier",
+    "question": "Consider colorings of the vertices of a regular 6-gon using 4 colors. Two colorings are considered the same if one can be obtained from the other by a rotation or reflection of the polygon. How many distinct colorings are there?",
+    "answer": "430"
+  }
+]

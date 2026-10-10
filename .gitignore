@@ -1,0 +1,22 @@
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Local results (keep the directory)
+results/*
+!results/.gitkeep
+*_results.jsonl
+*.log
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

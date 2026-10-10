@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "difficulty": "frontier",
+    "question": "Let a sequence (a_n) be defined by a_0 = 0, a_1 = 1 and\na_{n+1} = 4 a_n - a_{n-1} + 3 for n >= 1.\nFind a closed form for a_n and then compute a_6.",
+    "answer": "1635"
+  },
+  {
+    "id": 2,
+    "difficulty": "frontier",
+    "question": "Evaluate the sum\nS = sum_{k=0}^{20} (-1)^k * k^2 * C(20, k).\nGive your answer as an integer.",
+    "answer": "0"
+  },
+  {
+    "id": 3,
+    "difficulty": "frontier",
+    "question": "Let A be an 8-element set and B be a 5-element set.\nHow many onto functions f: A -> B are there such that exactly one element of B\nhas a preimage of size 3 (and all other elements of B have nonempty preimages)?",
+    "answer": "67200"
+  },
+  {
+    "id": 4,
+    "difficulty": "frontier",
+    "question": "How many positive integers n with 1 <= n <= 10000 satisfy Euler's totient equation\nphi(n) = 4 ?",
+    "answer": "4"
+  },
+  {
+    "id": 5,
+    "difficulty": "frontier",
+    "question": "Consider the complete graph K_6 on vertex set {1,2,3,4,5,6}.\nHow many distinct spanning trees of K_6 contain the edge {1,2}? (Trees are considered labeled by the vertices; only the set of edges matters.)",
+    "answer": "432"
+  },
+  {
+    "id": 6,
+    "difficulty": "frontier",
+    "question": "How many ordered 5-tuples (x1,x2,x3,x4,x5) of integers satisfy\nx1 + x2 + x3 + x4 + x5 = 20,\nall xi >= 2, and all five xi are pairwise distinct?",
+    "answer": "120"
+  },
+  {
+    "id": 7,
+    "difficulty": "frontier",
+    "question": "Let S_9 be the symmetric group on 9 elements.\nHow many permutations in S_9 have all cycle lengths odd?\n(For example, a permutation consisting of a 5-cycle and a 4-cycle is not allowed.)",
+    "answer": "99225"
+  },
+  {
+    "id": 8,
+    "difficulty": "frontier",
+    "question": "Evaluate the sum\nT = sum_{k=0}^{10} (-1)^k * C(2k, k) * C(20, 2k).\nGive your answer as an integer.",
+    "answer": "-1813055"
+  },
+  {
+    "id": 9,
+    "difficulty": "frontier",
+    "question": "Let Omega(n) denote the total number of prime factors of n counted with multiplicity.\nFor example, Omega(18) = 3 because 18 = 2 * 3 * 3.\nHow many integers n with 1 <= n <= 1000 satisfy Omega(n) = 3 and Omega(n+1) = 3 ?",
+    "answer": "63"
+  },
+  {
+    "id": 10,
+    "difficulty": "frontier",
+    "question": "Let A be the 4x4 matrix with 2 on the diagonal and 1 in every off-diagonal entry, i.e.\nA = [[2,1,1,1],[1,2,1,1],[1,1,2,1],[1,1,1,2]].\nCompute det(A).",
+    "answer": "5"
+  }
+]

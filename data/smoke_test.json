@@ -1,0 +1,5 @@
+[
+  {"id": 1, "difficulty": "easy", "question": "What is 2 + 3?", "answer": "5"},
+  {"id": 2, "difficulty": "easy", "question": "Solve 3x + 2 = 14. Return x.", "answer": "4"},
+  {"id": 3, "difficulty": "easy", "question": "A rectangle has length 7 and width 4. What is its area?", "answer": "28"}
+]

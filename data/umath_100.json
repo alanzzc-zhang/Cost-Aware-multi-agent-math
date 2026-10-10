@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "difficulty": "hard",
+    "question": "Evaluate the definite integral \\int_0^3 (2x^2 - 3x + 1)\\,dx.",
+    "answer": "7"
+  },
+  {
+    "id": 2,
+    "difficulty": "hard",
+    "question": "Evaluate \\int_0^1 6x(1-x)\\,dx.",
+    "answer": "1"
+  },
+  {
+    "id": 3,
+    "difficulty": "hard",
+    "question": "Let f(x)=x^4-4x^3+6x^2. Find the minimum value of f(x) on [0,3].",
+    "answer": "0"
+  },
+  {
+    "id": 4,
+    "difficulty": "hard",
+    "question": "Compute \\int_0^2 (5x^3 - 12x^2 + 9x - 2)\\,dx.",
+    "answer": "2"
+  },
+  {
+    "id": 5,
+    "difficulty": "hard",
+    "question": "Find \\int_0^4 (3x^2 - 12x + 12)\\,dx.",
+    "answer": "16"
+  },
+  {
+    "id": 6,
+    "difficulty": "hard",
+    "question": "Evaluate the Riemann sum limit \\lim_{n\\to\\infty}\\sum_{k=1}^{n} \\frac{6}{n}\\left(\\frac{k}{n}\\right)\\left(1-\\frac{k}{n}\\right).",
+    "answer": "1"
+  },
+  {
+    "id": 7,
+    "difficulty": "hard",
+    "question": "Compute \\int_0^3 (4 - 2x)\\,dx.",
+    "answer": "3"
+  },
+  {
+    "id": 8,
+    "difficulty": "hard",
+    "question": "Find the area between y=6x and y=3x^2 over [0,2].",
+    "answer": "4"
+  },
+  {
+    "id": 9,
+    "difficulty": "hard",
+    "question": "Evaluate \\int_0^5 (x^2 - 4x + 5)\\,dx.",
+    "answer": "16"
+  },
+  {
+    "id": 10,
+    "difficulty": "hard",
+    "question": "Let g(x)=9-6x+ x^2. Find the exact value of \\int_0^3 g(x)\\,dx.",
+    "answer": "9"
+  },
+  {
+    "id": 11,
+    "difficulty": "hard",
+    "question": "Compute \\int_{-1}^{1} (8x^2 + 2)\\,dx.",
+    "answer": "9"
+  },
+  {
+    "id": 12,
+    "difficulty": "hard",
+    "question": "Evaluate \\int_0^2 (10 - 5x)\\,dx.",
+    "answer": "10"
+  },
+  {
+    "id": 13,
+    "difficulty": "hard",
+    "question": "Evaluate \\int_0^1 (12x^2 - 6x + 2)\\,dx.",
+    "answer": "3"
+  },
+  {
+    "id": 14,
+    "difficulty": "hard",
+    "question": "Let h(x)=3x^4 -12x^3 + 12x^2. Find the minimum of h(x) on [0,3].",
+    "answer": "0"
+  },
+  {
+    "id": 15,
+    "difficulty": "hard",
+    "question": "Evaluate \\int_0^6 (4x - 2)\\,dx.",
+    "answer": "60"
+  },
+  {
+    "id": 16,
+    "difficulty": "hard",
+    "question": "Compute the determinant of the matrix [[2, -1, 0], [0, 3, 1], [1, 2, 1]].",
+    "answer": "1"
+  },
+  {
+    "id": 17,
+    "difficulty": "hard",
+    "question": "Compute the determinant of the matrix [[4, 2, 1], [0, 5, -2], [3, -1, 2]].",
+    "answer": "5"
+  },
+  {
+    "id": 18,
+    "difficulty": "hard",
+    "question": "Compute the determinant of the matrix [[1, 2, 3], [0, -1, 4], [2, 0, 5]].",
+    "answer": "17"
+  },
+  {
+    "id": 19,
+    "difficulty": "hard",
+    "question": "Compute the determinant of the matrix [[3, 0, 2], [2, 1, 0], [1, -1, 4]].",
+    "answer": "6"
+  },
+  {
+    "id": 20,
+    "difficulty": "hard",
+    "question": "Compute the determinant of the matrix [[5, -2, 1], [0, 3, -1], [2, 4, 1]].",
+    "answer": "33"
+  },
+  {
+    "id": 21,
+    "difficulty": "hard",
+    "question": "Solve Ax=b with A=[[-3, 3, 2], [0, 0, 3], [-3, 2, -2]] and b=[22, 15, 1]. What is x1+x2+x3?",
+    "answer": "3"
+  },
+  {
+    "id": 22,
+    "difficulty": "hard",
+    "question": "Solve Ax=b with A=[[2, 3, 2], [3, 1, -2], [3, 0, 1]] and b=[4, -12, 5]. What is x1+x2+x3?",
+    "answer": "3"
+  },
+  {
+    "id": 23,
+    "difficulty": "hard",
+    "question": "Solve Ax=b with A=[[3, 2, 0], [3, 1, 0], [0, -2, -3]] and b=[11, 7, 1]. What is x1+x2+x3?",
+    "answer": "2"
+  },
+  {
+    "id": 24,
+    "difficulty": "hard",
+    "question": "Solve Ax=b with A=[[3, 3, -1], [2, -2, 3], [2, -1, -3]] and b=[13, 23, -6]. What is x1+x2+x3?",
+    "answer": "11"
+  },
+  {
+    "id": 25,
+    "difficulty": "hard",
+    "question": "Solve Ax=b with A=[[2, 3, 3], [-2, -1, 0], [0, -3, 1]] and b=[14, 1, -6]. What is x1+x2+x3?",
+    "answer": "4"
+  },
+  {
+    "id": 26,
+    "difficulty": "hard",
+    "question": "For A=[[2, 1], [1, 2]], compute the sum of squares of eigenvalues of A.",
+    "answer": "10"
+  },
+  {
+    "id": 27,
+    "difficulty": "hard",
+    "question": "For A=[[4, -1], [-1, 3]], compute the sum of squares of eigenvalues of A.",
+    "answer": "27"
+  },
+  {
+    "id": 28,
+    "difficulty": "hard",
+    "question": "For A=[[3, 2], [2, 3]], compute the sum of squares of eigenvalues of A.",
+    "answer": "26"
+  },
+  {
+    "id": 29,
+    "difficulty": "hard",
+    "question": "For A=[[5, 0], [0, 2]], compute the sum of squares of eigenvalues of A.",
+    "answer": "29"
+  },
+  {
+    "id": 30,
+    "difficulty": "hard",
+    "question": "For A=[[1, 4], [0, 3]], compute the sum of squares of eigenvalues of A.",
+    "answer": "10"
+  },
+  {
+    "id": 31,
+    "difficulty": "very hard",
+    "question": "How many surjections are there from an 6-element set onto a 3-element set?",
+    "answer": "540"
+  },
+  {
+    "id": 32,
+    "difficulty": "very hard",
+    "question": "How many surjections are there from an 7-element set onto a 4-element set?",
+    "answer": "8400"
+  },
+  {
+    "id": 33,
+    "difficulty": "very hard",
+    "question": "How many surjections are there from an 8-element set onto a 5-element set?",
+    "answer": "126000"
+  },
+  {
+    "id": 34,
+    "difficulty": "very hard",
+    "question": "How many surjections are there from an 9-element set onto a 3-element set?",
+    "answer": "18150"
+  },
+  {
+    "id": 35,
+    "difficulty": "very hard",
+    "question": "How many surjections are there from an 10-element set onto a 4-element set?",
+    "answer": "818520"
+  },
+  {
+    "id": 36,
+    "difficulty": "very hard",
+    "question": "How many distinct permutations of the multiset with letters of the word 'MISSISSIPPI' exist?",
+    "answer": "34650"
+  },
+  {
+    "id": 37,
+    "difficulty": "very hard",
+    "question": "How many distinct permutations are there of the word 'STATISTICS'?",
+    "answer": "50400"
+  },
+  {
+    "id": 38,
+    "difficulty": "very hard",
+    "question": "How many solutions in nonnegative integers to x1+x2+x3+x4=20 are there?",
+    "answer": "1771"
+  },
+  {
+    "id": 39,
+    "difficulty": "very hard",
+    "question": "How many solutions in positive integers to y1+y2+y3=15 are there?",
+    "answer": "91"
+  },
+  {
+    "id": 40,
+    "difficulty": "very hard",
+    "question": "How many derangements (permutations with no fixed points) of 5 elements are there?",
+    "answer": "44"
+  },
+  {
+    "id": 41,
+    "difficulty": "very hard",
+    "question": "How many derangements (permutations with no fixed points) of 6 elements are there?",
+    "answer": "265"
+  },
+  {
+    "id": 42,
+    "difficulty": "very hard",
+    "question": "How many derangements (permutations with no fixed points) of 7 elements are there?",
+    "answer": "1854"
+  },
+  {
+    "id": 43,
+    "difficulty": "very hard",
+    "question": "How many derangements (permutations with no fixed points) of 8 elements are there?",
+    "answer": "14833"
+  },
+  {
+    "id": 44,
+    "difficulty": "very hard",
+    "question": "How many derangements (permutations with no fixed points) of 9 elements are there?",
+    "answer": "133496"
+  },
+  {
+    "id": 45,
+    "difficulty": "very hard",
+    "question": "What is the 5th Catalan number?",
+    "answer": "42"
+  },
+  {
+    "id": 46,
+    "difficulty": "very hard",
+    "question": "What is the 6th Catalan number?",
+    "answer": "132"
+  },
+  {
+    "id": 47,
+    "difficulty": "very hard",
+    "question": "What is the 7th Catalan number?",
+    "answer": "429"
+  },
+  {
+    "id": 48,
+    "difficulty": "very hard",
+    "question": "How many shortest lattice paths from (0,0) to (8,5) move only right or up?",
+    "answer": "1287"
+  },
+  {
+    "id": 49,
+    "difficulty": "very hard",
+    "question": "How many 5-card poker hands contain exactly two pairs (from a standard 52-card deck)?",
+    "answer": "123552"
+  },
+  {
+    "id": 50,
+    "difficulty": "very hard",
+    "question": "How many ways to partition a 9-element set into exactly 4 nonempty unlabeled blocks?",
+    "answer": "7770"
+  },
+  {
+    "id": 51,
+    "difficulty": "very hard",
+    "question": "A club has 8 women and 7 men. How many 5-person committees with at least 3 women can be formed?",
+    "answer": "1722"
+  },
+  {
+    "id": 52,
+    "difficulty": "hard",
+    "question": "How many edges does the 7-dimensional hypercube Q7 have?",
+    "answer": "448"
+  },
+  {
+    "id": 53,
+    "difficulty": "hard",
+    "question": "How many spanning trees does the complete graph K8 have?",
+    "answer": "262144"
+  },
+  {
+    "id": 54,
+    "difficulty": "hard",
+    "question": "How many spanning trees does the cycle graph C12 have?",
+    "answer": "12"
+  },
+  {
+    "id": 55,
+    "difficulty": "hard",
+    "question": "How many perfect matchings are in the complete graph K10?",
+    "answer": "945"
+  },
+  {
+    "id": 56,
+    "difficulty": "hard",
+    "question": "How many labeled trees are there on 7 vertices?",
+    "answer": "16807"
+  },
+  {
+    "id": 57,
+    "difficulty": "hard",
+    "question": "How many proper colorings of K4 are there with 6 available colors?",
+    "answer": "360"
+  },
+  {
+    "id": 58,
+    "difficulty": "hard",
+    "question": "How many edges are in the complete bipartite graph K7,9?",
+    "answer": "63"
+  },
+  {
+    "id": 59,
+    "difficulty": "hard",
+    "question": "How many Hamiltonian cycles are in the complete graph K7 (count cycles up to rotation and reflection)?",
+    "answer": "360"
+  },
+  {
+    "id": 60,
+    "difficulty": "hard",
+    "question": "How many spanning trees are in the complete bipartite graph K3,5?",
+    "answer": "2025"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "How many edges are in a 5-regular simple graph on 20 vertices?",
+    "answer": "50"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "In 10 fair coin tosses, what is the expected number of heads?",
+    "answer": "5"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "For a Geometric(p) distribution counting trials until the first success with p=1/3, what is the expected value?",
+    "answer": "3"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "For a Negative Binomial with r=4 (number of successes) and success probability p=1/5 (counting trials), what is the expected number of trials?",
+    "answer": "20"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "In a population of N=50 with K=20 successes, sampling n=5 without replacement, what is the expected number of successes?",
+    "answer": "2"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "If X~Poisson(7), what is E[X]?",
+    "answer": "7"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "If Y~Binomial(n=12,p=1/4), what is E[Y]?",
+    "answer": "3"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "For a random permutation of 8 elements, what is the expected number of fixed points?",
+    "answer": "1"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What is the expected sum when rolling two fair six-sided dice?",
+    "answer": "7"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "How many outcomes are there when rolling 6 fair dice that show exactly two sixes?",
+    "answer": "9375"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "How many sequences of 10 fair coin flips have exactly 4 heads?",
+    "answer": "210"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "How many 5-card flushes are possible from a standard 52-card deck (count all 5-of-same-suit hands)?",
+    "answer": "5148"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "How many ways to distribute 7 identical balls into 4 distinct boxes (allowing empty boxes)?",
+    "answer": "120"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "You randomly permute numbers 1..20 and take the first 20 terms (all of them). What is the sum?",
+    "answer": "210"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "How many injective functions are there from a 5-element set into a 10-element set?",
+    "answer": "30240"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "How many surjective functions are there from a 7-element set onto a 3-element set?",
+    "answer": "1806"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "In 15 independent Bernoulli(p=0.2) trials, what is the expected number of successes?",
+    "answer": "3"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What is the expected number of coin tosses to get the first head with p=1/2 (support {1,2,...})?",
+    "answer": "2"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What is the expected sum when rolling three fair six-sided dice?",
+    "answer": "10"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "How many ways are there to arrange 8 distinct books on a shelf if 3 specific books must be together (in any order)?",
+    "answer": "4320"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "How many binary strings of length 12 contain exactly five 1s?",
+    "answer": "792"
+  },
+  {
+    "id": 82,
+    "difficulty": "very hard",
+    "question": "Compute Euler's totient function φ(840).",
+    "answer": "192"
+  },
+  {
+    "id": 83,
+    "difficulty": "very hard",
+    "question": "How many positive divisors does 360 have?",
+    "answer": "24"
+  },
+  {
+    "id": 84,
+    "difficulty": "very hard",
+    "question": "What is the sum of all positive divisors of 496?",
+    "answer": "992"
+  },
+  {
+    "id": 85,
+    "difficulty": "very hard",
+    "question": "Solve for the smallest nonnegative integer x with x≡2 (mod 5), x≡3 (mod 7), and x≡1 (mod 8).",
+    "answer": "17"
+  },
+  {
+    "id": 86,
+    "difficulty": "very hard",
+    "question": "Compute 3^100 mod 7.",
+    "answer": "4"
+  },
+  {
+    "id": 87,
+    "difficulty": "very hard",
+    "question": "Compute φ(1)+φ(2)+...+φ(10).",
+    "answer": "32"
+  },
+  {
+    "id": 88,
+    "difficulty": "very hard",
+    "question": "What is F_20, the 20th Fibonacci number (with F_0=0, F_1=1)?",
+    "answer": "6765"
+  },
+  {
+    "id": 89,
+    "difficulty": "very hard",
+    "question": "How many solutions are there to x^2 ≡ 1 (mod 105) with 0≤x<105?",
+    "answer": "8"
+  },
+  {
+    "id": 90,
+    "difficulty": "very hard",
+    "question": "Compute (13-1)! mod 13.",
+    "answer": "12"
+  },
+  {
+    "id": 91,
+    "difficulty": "very hard",
+    "question": "What is the exponent of 2 in the prime factorization of 100! ?",
+    "answer": "97"
+  },
+  {
+    "id": 92,
+    "difficulty": "very hard",
+    "question": "How many surjections are there from a 6-element set onto a 2-element set?",
+    "answer": "62"
+  },
+  {
+    "id": 93,
+    "difficulty": "very hard",
+    "question": "How many 4-element subsets of {1,2,...,10} contain no consecutive integers?",
+    "answer": "35"
+  },
+  {
+    "id": 94,
+    "difficulty": "very hard",
+    "question": "How many 5-tuples of positive odd integers sum to 13?",
+    "answer": "70"
+  },
+  {
+    "id": 95,
+    "difficulty": "very hard",
+    "question": "Compute the determinant of the diagonal matrix diag(2,3,5,7).",
+    "answer": "210"
+  },
+  {
+    "id": 96,
+    "difficulty": "very hard",
+    "question": "How many directed edges are there in a tournament on 9 labeled vertices?",
+    "answer": "36"
+  },
+  {
+    "id": 97,
+    "difficulty": "very hard",
+    "question": "What is the last digit of 7^2025?",
+    "answer": "7"
+  },
+  {
+    "id": 98,
+    "difficulty": "very hard",
+    "question": "How many permutations of 10 elements have exactly 2 fixed points?",
+    "answer": "667485"
+  },
+  {
+    "id": 99,
+    "difficulty": "very hard",
+    "question": "How many distinct seatings are there for 8 people around a round table (consider rotations the same)?",
+    "answer": "5040"
+  },
+  {
+    "id": 100,
+    "difficulty": "very hard",
+    "question": "How many nonnegative integer solutions (x1,...,x6) satisfy x1+...+x6=15 with each xi ≤ 5?",
+    "answer": "4332"
+  }
+]
